@@ -1,0 +1,20 @@
+{
+    "context": "client",
+    "identifier": "com.pa.Innomen.CruiseMissile",
+    "display_name": "Cruise Missile",
+    "description": "Adds the strategic icon for the Cruise Missile",
+    "author": "Innomen, Diaboy",
+    "version": "1.0.1",
+    "build": "77792",
+    "date": "2015/1/27",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/wip-logical-changes.67389",
+    "icon": "http://forums.uberent.com/data/avatars/l/1981/1981190.jpg",
+    "category": [
+        "in-game"
+    ],
+    "scenes": {
+    },
+    "priority": 100,
+    "enabled": true
+}
