@@ -1,6 +1,6 @@
 {
     "context": "client",
-    "identifier": "com.pa.Innomen.CruiseMissile",
+    "identifier": "com.pa.Innomen.CruiseMissile_client",
     "display_name": "Cruise Missile",
     "description": "Adds the strategic icon for the Cruise Missile",
     "author": "Innomen, Diaboy",
