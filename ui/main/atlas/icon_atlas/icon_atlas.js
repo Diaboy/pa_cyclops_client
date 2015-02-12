@@ -1,4 +1,4 @@
-﻿var model;
+var model;
 var handlers;
 
 $(document).ready(function () {
@@ -113,7 +113,8 @@ $(document).ready(function () {
             'control_point',
             'mining_platform',
             'metal_spot_preview',
-            'unit_cannon'
+            'unit_cannon',
+            'air_cyclops'
         ]);
 
         self.sendIconList = function () {
